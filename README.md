@@ -1,7 +1,9 @@
 # COMP790: (Deep) Learning with Limited Labeled Data (DL3D)
 
 Instructor: [Colin Raffel](http://colinraffel.com)  
+
 Meeting time: Mondays and Wednesdays, 2:40-3:55pm
+
 Office hours: Tuesdays from 9:00-10:00am, Thursdays and Fridays from 3:00-4:00pm
 
 "Deep learning" has produced dramatic advances across a wide variety of domains, including computer vision, natural language processing, speech recognition, and beyond.
