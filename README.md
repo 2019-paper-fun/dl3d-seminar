@@ -2,6 +2,7 @@
 
 Instructor: [Colin Raffel](http://colinraffel.com)  
 Meeting time: Mondays and Wednesdays, 2:40-3:55pm
+Office hours: Tuesdays from 9:00-10:00am, Thursdays and Fridays from 3:00-4:00pm
 
 "Deep learning" has produced dramatic advances across a wide variety of domains, including computer vision, natural language processing, speech recognition, and beyond.
 Applying deep learning typically involves training a model using a large labeled dataset.
@@ -29,6 +30,8 @@ Students will be divided into two groups.
 One group of students will present on Mondays and the other on Wednesdays.
 In a given class session, students in the presenting group will each be given a rotating role (described below).
 This role defines the lens through which they read the paper and determines what they prepare for the group in-class discussion.
+Note that *two* people will team up for each role, and the pairing will rotate each class.
+You and your partner should decide how to equally divide the work for a given role/paper/session.
 Students in the non-presenting group are also required to read the paper, complete a quick exercise (described below), and come to class ready to discuss.
 All students will obtain a thorough understanding of the chosen papers and will develop their paper reading, literature review, and prototyping skills.
 
@@ -37,7 +40,7 @@ All students will obtain a thorough understanding of the chosen papers and will 
 This seminar is organized around the different "roles" students play each week:
 Reviewer, Archaeologist, Researcher, Practitioner, Hacker, and Private Investigator.
 
-  - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines), taking note of the example reviews included therein. In particular, please answer all of the questions under "Review Content" and assign an accept/reject decision. 
+  - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines) (under "Review Content"), taking note of the example reviews included therein. In particular, please answer questions 1 to 10 under "Review Content", including assigning an overall score.
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
   - **Researcher:** Propose an imaginary follow-up project -- not just based on the current but only possible due to the existence and success of the current paper.
   - **Practitioner:** Propose a new application for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application.
