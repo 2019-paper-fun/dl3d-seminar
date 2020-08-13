@@ -46,7 +46,7 @@ Reviewer, Archaeologist, Researcher, Practitioner, Hacker, and Private Investiga
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
   - **Researcher:** Propose an imaginary follow-up project -- not just based on the current but only possible due to the existence and success of the current paper.
   - **Practitioner:** Propose a new application for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application.
-  - **Hacker:** Implement a small part of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class.
+  - **Hacker:** Implement a small part of the paper on a small dataset or toy problem. Prepare to share the core code of the algorithm to the class. Do not simply download and run an existing implementation - you should implement at least a core method from the paper, though you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.).
   - **Private Investigator:** Find out background information on one of the paper authors. Where have they worked? What did they study? What previous projects might have led to working on this one? What do you think motivated them to work on this project? Feel free to contact the authors, but remember to be courteous, polite, and on-topic. Write that you're in Prof. Raffel's seminar and include a link to this page.
 
 #### Non-presenter assignment
