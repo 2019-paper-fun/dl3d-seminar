@@ -1,7 +1,6 @@
 # Paper list
 
-Here is a preliminary list of papers that we will choose from to discuss in this class.
-If you are interested in reading a paper that is not on this list, don't worry, you'll get the opportunity to suggest it!
+This is the original full reading list that we used to select the papers we are reading in the class.
 
 | **Title** | **Approach** | **Domain** |
 |---|---|---|

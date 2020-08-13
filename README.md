@@ -1,6 +1,6 @@
 # COMP790: (Deep) Learning with Limited Labeled Data (DL3D)
 
-Instructor: [Colin Raffel](http://colinraffel.com)  
+Instructor: [Colin Raffel](http://colinraffel.com)
 
 Meeting time: Mondays and Wednesdays, 2:40-3:55pm
 
@@ -54,7 +54,7 @@ Reviewer, Archaeologist, Researcher, Practitioner, Hacker, and Private Investiga
 If you aren't in the presenting group during a given class period, please come to class with:
   1. A new title for the paper and/or a new name for the algorithm it proposes
   1. At least one question about the paper (either something you're confused about or something you'd like to hear discussed more)
-  
+
 ### Final Project
 
 All students in the class will write a "mini-paper" as a final project.
@@ -74,39 +74,37 @@ All students in each group are required to present some material during the fina
 
 ## Schedule
 
-We will choose the specific list of papers that we will read based on popular vote in the first week of class.
-You can view the list of papers that we will choose from [here](https://github.com/craffel/dl3d-seminar/blob/master/papers.md).
-I will fill in the schedule with the papers we've chosen once we've voted.
+The papers we are reading were chosen by popular vote from [this list](https://github.com/craffel/dl3d-seminar/blob/master/papers.md) during the first week of class.
 
 | Date | Content |
 |----|----|
 | Mon, 8/10 | Course introduction, logistics, and background lecture |
-| Wed, 8/12 | Course introduction continued |
-| Mon, 8/17 | Paper discussion |
-| Wed, 8/19 | Paper discussion |
-| Mon, 8/24 | Paper discussion |
-| Wed, 8/26 | Paper discussion |
-| Mon, 8/31 | Paper discussion |
-| Wed, 9/2 | Paper discussion |
+| Wed, 8/12 | [Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) (presented by Colin) |
+| Mon, 8/17 | [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298) |
+| Wed, 8/19 | [Semi-Supervised Learning with Normalizing Flows](https://arxiv.org/abs/1912.13025) |
+| Mon, 8/24 | [Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242) |
+| Wed, 8/26 | [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/abs/1704.03976) |
+| Mon, 8/31 | [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249) |
+| Wed, 9/2 | [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983) |
 | Mon, 9/7 | No class (labor day) |
-| Wed, 9/9 | Paper discussion |
-| Mon, 9/14 | Paper discussion |
-| Wed, 9/16 | Paper discussion |
-| Mon, 9/21 | Paper discussion |
-| Wed, 9/23 | Paper discussion |
-| Mon, 9/28 | Paper discussion |
-| Wed, 9/30 | Paper discussion |
-| Mon, 10/5 | Paper discussion |
-| Wed, 10/7 | Paper discussion |
-| Mon, 10/12 | Paper discussion |
-| Wed, 10/14 | Paper discussion |
-| Mon, 10/19 | Project proposals due, paper discussion |
-| Wed, 10/21 | Paper discussion |
-| Mon, 10/26 | Paper discussion |
-| Wed, 10/28 | Paper discussion |
-| Mon, 11/2 | Paper discussion |
-| Wed, 11/4 | Paper discussion |
-| Mon, 11/9 | Paper discussion |
+| Wed, 9/9 | [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) |
+| Mon, 9/14 | [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) |
+| Wed, 9/16 | [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670) |
+| Mon, 9/21 | [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) |
+| Wed, 9/23 | [Semi-Supervised Sequence Learning](https://arxiv.org/abs/1511.01432) |
+| Mon, 9/28 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
+| Wed, 9/30 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) |
+| Mon, 10/5 | [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504) |
+| Wed, 10/7 | [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751) |
+| Mon, 10/12 | [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987) |
+| Wed, 10/14 | [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) |
+| Mon, 10/19 | Project proposals due, [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) |
+| Wed, 10/21 | [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) |
+| Mon, 10/26 | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) |
+| Wed, 10/28 | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) |
+| Mon, 11/2 | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) |
+| Wed, 11/4 | [Rethinking ImageNet Pre-Training](https://arxiv.org/abs/1811.08883) |
+| Mon, 11/9 | [Task2Vec: Task Embedding for Meta-Learning](https://arxiv.org/abs/1902.03545) |
 | Wed, 11/11 | Guest lecture |
 | Mon, 11/16 | Guest lecture |
 | Final exam slot | Final project presentations |
@@ -120,7 +118,7 @@ I will fill in the schedule with the papers we've chosen once we've voted.
       - Writing: 10 points; your paper should be readable and complete and situate its self appropriately among related work. You should use the format and style of a standard machine learning conference paper.
       - Presentation: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
       - Code: 10 points; the code you write and submit for your final project should allow for complete reproduction of your results and be well-documented.
-  
+
 ## Attendance, late work, and the honor code
 
 If you miss a class without completing the corresponding assignment, you'll get a zero for that session.
